@@ -1,6 +1,7 @@
-# ENTRUST (Laravel 6 Package)
+# ENTRUST (Laravel 11 Package)
 
-Entrust is a succinct and flexible way to add Role-based Permissions to **Laravel 6**.
+Entrust is a succinct and flexible way to add Role-based Permissions to **Laravel 11**.
+### This is just fork, use it only in case if you stack on upgrading Laravel! This package is not maintained !
 
 ## Contents
 
@@ -27,10 +28,10 @@ Entrust is a succinct and flexible way to add Role-based Permissions to **Larave
 
 ## Installation
 
-1) In order to install Laravel 6 Entrust, just add the following to your composer.json. Then run `composer update`:
+1) In order to install Laravel 11 Entrust, just add the following to your composer.json. Then run `composer update`:
 
 ```json
-"gghughunishvili/entrust": "^2.0"
+"giorgijorji/entrust": "^1.0"
 ```
 
 2) Open your `config/app.php` and add the following to the `providers` array:
